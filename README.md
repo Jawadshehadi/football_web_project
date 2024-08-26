@@ -1,2 +1,0 @@
-#football_web_project
-sdcsdfsdvsv
